@@ -8,3 +8,7 @@ print("Hello World")
 a = int(input("angka : "))
 
 print(a)
+
+
+if a == 0:
+  print("ini adlaah 0 ")
